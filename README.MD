@@ -15,3 +15,11 @@ KuduOutPut类会使用该类
 ### KuduOutput
 数据处理的类
     重点方法为  processRow 与一个构造方法
+
+
+
+这里还缺少对错误数据的统计   
+
+
+
+# setting.xml使用本项目下的setting.xml，如果遇到下载不下来的jar的情况，建议到https://nexus.pentaho.org进行下载
